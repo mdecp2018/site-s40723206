@@ -1,11 +1,12 @@
 .container {
   position: relative;
-  background-image:url(https://i.imgur.com/Ey1RkuH.jpg)
 }
 header{
-  background-image:url(http://static.tumblr.com/mnooz6i/pErnfe0w2/fjd.png);height:200px;
+  background-image:url(http://pluspng.com/img-png/taylor-swift-png-1989--960.png);height:100px;
+  background-color:#f3cea8cf;
+  background-size:100%;
   padding: 50px;
-  color: #230b9d;
+  color: #fff;
 }
 confmenu
 {
@@ -203,6 +204,9 @@ background-color: white;
 width: 195px;
 }
 body {
+  background-image:url(https://i.imgur.com/Ey1RkuH.jpg);
+  background-size:100%;
+  background-attachment: fixed;
   margin-bottom: 120px;
 }
 

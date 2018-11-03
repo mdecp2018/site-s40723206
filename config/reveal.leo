@@ -21,8 +21,11 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181103235519.1" a="E"><vh>投影片1</vh>
+<v t="leo.20181103235519.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -325,6 +328,21 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181103235519.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181103235519.2">### s40723206 網際簡報
+
+ * [CMSimfly](https://github.com/chiamingyen/cmsimfly) 操作
+ * [Onshape](http://www.onshape.com) 操作
+
 </t>
 </tnodes>
 </leo_file>
