@@ -1,5 +1,6 @@
 .container {
   position: relative;
+  color: #ffffff; 
 }
 header{
   background-image:url(http://pluspng.com/img-png/taylor-swift-png-1989--960.png);height:100px;
@@ -64,7 +65,7 @@ ul#css3menu1 ul{
 	-webkit-transition:opacity 0.5s;
 	-o-transition:opacity 0.5s,visibility 0.5s;
 	transition:opacity 0.5s;
-	background-color:#A2D890;
+	background-color:#fbf9fa;
 	border-radius:5px;
 	-moz-border-radius:5px;
 	-webkit-border-radius:5px;
@@ -115,7 +116,7 @@ ul#css3menu1 a{
 	text-align:left;
 	text-decoration:none;
 	font:17px Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
-	color:#000000;
+	color:#f1f1f1;
 	cursor:pointer;
 	padding:7px 12px;
 	background-color:;
@@ -131,12 +132,12 @@ ul#css3menu1 ul li{
 ul#css3menu1 ul a{
 	text-align:left;
 	padding:7px;
-	background-color:#A2D890;
+	background-color:#3b4050;
 	border-radius:5px;
 	-moz-border-radius:5px;
 	-webkit-border-radius:5px;
 	font:14px Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
-	color:#000000;
+	color:#09e6f3;
 	text-decoration:none;
 }
 ul#css3menu1 li:hover>a,ul#css3menu1 li a.pressed{
@@ -183,7 +184,7 @@ ul#css3menu1 li.topmenu:hover>a,ul#css3menu1 li.topmenu a.pressed{
     margin-left: 12px;	
     border-top: 3px solid transparent;
     border-bottom: 3px solid transparent;
-    border-left: 3px solid #666;		
+    border-left: 3px solid #e9d4af;		
     width: 1px;
     height: 1px;
 }
@@ -204,7 +205,7 @@ background-color: white;
 width: 195px;
 }
 body {
-  background-image:url(https://i.imgur.com/L2TWiTN.jpg);
+  background-image:url(https://cdn.vox-cdn.com/uploads/chorus_image/image/49251061/taylor-swift-new-romantics.0.0.jpg);
   background-size:100%;
   background-attachment: fixed;
   margin-bottom: 120px;
