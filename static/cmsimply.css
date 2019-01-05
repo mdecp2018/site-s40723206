@@ -3,11 +3,11 @@
   color: #ffffff; 
 }
 header{
-  background-image:url(http://pluspng.com/img-png/taylor-swift-png-1989--960.png);height:100px;
-  background-color:#f3cea8cf;
+  height:100px;
+  background-color:#ddd;
   background-size:100%;
   padding: 50px;
-  color: #fff;
+  color: #135c8b;
 }
 confmenu
 {
@@ -184,7 +184,7 @@ ul#css3menu1 li.topmenu:hover>a,ul#css3menu1 li.topmenu a.pressed{
     margin-left: 12px;	
     border-top: 3px solid transparent;
     border-bottom: 3px solid transparent;
-    border-left: 3px solid #e9d4af;		
+    border-left: 3px solid #f1f1f1;		
     width: 1px;
     height: 1px;
 }
@@ -205,7 +205,7 @@ background-color: white;
 width: 195px;
 }
 body {
-  background-image:url(https://cdn.vox-cdn.com/uploads/chorus_image/image/49251061/taylor-swift-new-romantics.0.0.jpg);
+  background-color:#16a4c6;
   background-size:100%;
   background-attachment: fixed;
   margin-bottom: 120px;
